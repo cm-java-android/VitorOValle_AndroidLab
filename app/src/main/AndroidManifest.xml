@@ -15,6 +15,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".SegundaTelaActivity"
+            android:label="@string/title_activity_segunda_tela"
+           />
+        <activity android:name=".TerceiraTelaActivity" />
+        <activity android:name=".QuartaTelaActivity"></activity>
     </application>
 
 </manifest>
